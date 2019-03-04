@@ -3,3 +3,5 @@ Autotext, <Key-ID>, "<Message>"
 ------ 1.8 ------
 
 Automine, <Key-ID>
+Autorun, <Key-ID>
+Autofollow, <Key-ID>, <Player>
